@@ -1,7 +1,42 @@
 html {
-    background-color: grey;
+    background-color: white;
 }
 
-#firstparagraph {
-    
+body {
+    margin: 20;
 }
+
+#text {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: black;
+    text-align: center;
+    line-height: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#gridtilewrapper {
+    display: flex;
+}
+
+#gridtilewrapper a {
+    width: 35%; 
+}
+
+.gridimage {
+    width: 100%; 
+    height: auto;
+}
+
+.portfolioimage {
+    width: 100%;
+    height: auto;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
