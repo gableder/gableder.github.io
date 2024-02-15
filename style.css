@@ -28,6 +28,13 @@ body {
     height: auto;
 }
 
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 .portfolioimage {
     width: 100%;
     height: auto;
@@ -38,5 +45,10 @@ body {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-  }
+}
+
+.homepage {
+    margin-bottom: auto;
+}
+
 
