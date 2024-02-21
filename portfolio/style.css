@@ -1,0 +1,55 @@
+html {
+    background-color: white;
+}
+
+body {
+    margin: 20;
+}
+
+#text {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: black;
+    text-align: center;
+    line-height: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#gridtilewrapper {
+    display: flex;
+}
+
+#gridtilewrapper a {
+    width: 35%; 
+}
+
+.gridimage {
+    width: 100%; 
+    height: auto;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.portfolioimage {
+    width: 100%;
+    height: auto;
+}
+
+.homepage {
+    margin-bottom: auto;
+}
+
+#icon img {
+    width: 30px;
+    height: 30px;
+    position: fixed;
+    bottom: 0px;
+    left: 10px;
+}
+
+
